@@ -27,11 +27,6 @@ Ele oferece uma interface gráfica amigável com campos para nome de usuário e 
         python main.py
         ```
 
-## Estrutura do Projeto (Exemplo)
-seu_projeto/
-├── main.py          # Arquivo principal do aplicativo
-└── README.md        # Este arquivo
-
 ## Customização
 
 * **Lógica de Verificação de Senha:** O código dentro do arquivo principal (`main.py` ou outro nome que você definir) contém a lógica para verificar a senha.
@@ -44,7 +39,7 @@ Contribuições são bem-vindas! Se você tiver alguma sugestão de melhoria, co
 
 ## Licença
 
-[MIT License]
+MIT License
 
 ---
 
