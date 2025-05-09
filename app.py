@@ -7,7 +7,7 @@ def validar_login():
 
     # Verificar se o usuário é eldermf e a senha vamula
     if usuario == 'eldermf' and senha == 'vamula':
-        resultado_login.configure(text='Login feito com sucesso!',text_color='green')
+        resultado_login.configure(text='Login realizado com sucesso!',text_color='green')
     else:
         resultado_login.configure(text='Login incorreto',text_color='red')
 
