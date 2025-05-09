@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/1660a28a-b969-46cf-9d67-e0468bb7619e
+
+
 # App Login com Verificação de Senha (Customtkinter)
 
 Este é um aplicativo simples de login desenvolvido em Python utilizando a biblioteca `Customtkinter`. 
